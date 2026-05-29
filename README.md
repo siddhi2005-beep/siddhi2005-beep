@@ -11,7 +11,7 @@
 
 ## About Me
 
-- I am currently in my 2nd semester at GGSESTC
+- I am currently in my 4th semester at GGSESTC
 - Passionate about Data Science and the world of possibilities it opens
 - Focused on learning Python libraries for data analysis and machine learning
 - Interested in turning raw data into meaningful insights and visualizations
